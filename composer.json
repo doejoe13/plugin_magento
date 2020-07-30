@@ -1,0 +1,6 @@
+{
+    "name": " payu-emea/payu",
+    "version": "2.4.4",
+    "type": "magento-module",
+    "description": "PayU module for Magento 1.6.0+"
+}
